@@ -1,0 +1,37 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Citation for images used: \
+\
+All fruit images taken from this website:\
+\
+{\field{\*\fldinst{HYPERLINK "https://fruitninja.fandom.com/wiki/Category:Fruit"}}{\fldrslt https://fruitninja.fandom.com/wiki/Category:Fruit}}\
+\
+Background: {\field{\*\fldinst{HYPERLINK "https://www.tynker.com/community/projects/play/fruit-ninja/57250a3f65e4f277138b4571"}}{\fldrslt https://www.tynker.com/community/projects/play/fruit-ninja/57250a3f65e4f277138b4571}}\
+\
+Explosion: {\field{\*\fldinst{HYPERLINK "https://www.kisspng.com/png-explosion-cartoon-comics-bomb-bomb-in-english-134259/"}}{\fldrslt https://www.kisspng.com/png-explosion-cartoon-comics-bomb-bomb-in-english-134259/}}\
+\
+Infinity Sign: {\field{\*\fldinst{HYPERLINK "https://www.kisspng.com/png-ampersand-infinity-symbol-clip-art-infinity-763162/"}}{\fldrslt https://www.kisspng.com/png-ampersand-infinity-symbol-clip-art-infinity-763162/}}\
+\
+Pink Banana: {\field{\*\fldinst{HYPERLINK "http://www.clker.com/clipart-pink-banana.html"}}{\fldrslt http://www.clker.com/clipart-pink-banana.html}}\
+\
+Play Again: {\field{\*\fldinst{HYPERLINK "http://pixelartmaker.com/art/26a1b5369fd5fb4"}}{\fldrslt http://pixelartmaker.com/art/26a1b5369fd5fb4}}\
+\
+Title: https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjJ9KD9zv3hAhXnYd8KHSL2BfAQjRx6BAgBEAU&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.halfbrick.fruitninja%26hl%3Den_US&psig=AOvVaw3HhGUiMDD6OsscDgTeGiZk&ust=1556912984811900 \
+\
+Training: {\field{\*\fldinst{HYPERLINK "https://www.kisspng.com/png-training-computer-icons-education-skill-free-icon-612123/"}}{\fldrslt https://www.kisspng.com/png-training-computer-icons-education-skill-free-icon-612123/}} \
+\
+Timer: {\field{\*\fldinst{HYPERLINK "https://www.google.com/search?q=timer+image+icon&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi43dm5z_3hAhUtheAKHUEaDdUQ_AUIDigB&biw=1282&bih=838#imgrc=VLrKU8qxzhKbSM:"}}{\fldrslt https://www.google.com/search?q=timer+image+icon&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi43dm5z_3hAhUtheAKHUEaDdUQ_AUIDigB&biw=1282&bih=838#imgrc=VLrKU8qxzhKbSM:}}\
+\
+Sound effects: {\field{\*\fldinst{HYPERLINK "http://soundbible.com/tags-sparkle.html"}}{\fldrslt http://soundbible.com/tags-sparkle.html}}\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.audioblocks.com/royalty-free-audio/explosion-sound-effects"}}{\fldrslt \cf0 https://www.audioblocks.com/royalty-free-audio/explosion-sound-effects}}\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+Sword: {\field{\*\fldinst{HYPERLINK "https://www.google.com/search?tbm=isch&q=sword+png+image+cartoon&chips=q:sword+png+image+cartoon,online_chips:transparent+background&usg=AI4_-kRj038hsE6MDdKSMlX5OPbSFzE_sg&sa=X&ved=0ahUKEwj4kavwz_3hAhXSc98KHTUPAa4Q4lYIKSgC&biw=1282&bih=838&dpr=2#imgrc=pSJg7IuLWLsX_M:"}}{\fldrslt https://www.google.com/search?tbm=isch&q=sword+png+image+cartoon&chips=q:sword+png+image+cartoon,online_chips:transparent+background&usg=AI4_-kRj038hsE6MDdKSMlX5OPbSFzE_sg&sa=X&ved=0ahUKEwj4kavwz_3hAhXSc98KHTUPAa4Q4lYIKSgC&biw=1282&bih=838&dpr=2#imgrc=pSJg7IuLWLsX_M:}}\
+}
